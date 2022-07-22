@@ -1,5 +1,6 @@
 # 2021-2JSP
 Ticket Reservation Site with Dib Function on Travel Product
+https://drive.google.com/file/d/1ThzCnJGFe3DHSB1pJLKcOwqz_y9C9EgX/view?usp=sharing
 
 # port busy 오류 해결
 cmd 관리자권한 실행
